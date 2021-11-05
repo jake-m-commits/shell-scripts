@@ -29,7 +29,7 @@ verifyDir () {
     printf "Directory '~/.contacts' successfully created.\n"
     printf "\nCreating new contact_list file...\n"
     repeater "=" >> $HOME/.contacts/contact_list
-    printf "\nContact List\n" >> $HOME/.contacts/contact_list
+    printf "\n\t\tContact List\n" >> $HOME/.contacts/contact_list
     repeater "=" >> $HOME/.contacts/contact_list
     printf "\n\n" >> $HOME/.contacts/contact_list
     printf "contact_list file created @ ~/.contacts/contact_list\n\n"
