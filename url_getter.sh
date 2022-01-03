@@ -51,15 +51,15 @@ while getopts ":f:h" opt; do
         exit 0
       fi
       ;;
-    h )#: Run help function.
+    h )
       help
       ;;
-    \? )#: Redirect to help function for proper use.
+    \? )
       printf "${R}\n-$OPTARG is not an option\n${NoColor}"	
       echo "For more information: ./url-getter -h"
       exit 1
       ;;
-    : )#: Redirect to help if '-f' option doesn't get an argument.
+    : )
       printf "${R}\n-$OPTARG requires an argument\n${NoColor}"
       echo "For more information: ./url-getter -h"
       exit 1
