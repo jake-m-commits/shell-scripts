@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
-#: Jake Martin ~ A01158619
+#: Jake Martin
 #: Output a file with line numbers.
 
 

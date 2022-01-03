@@ -1,5 +1,5 @@
-#!/bin/bash
-#: Jake Martin ~ A01158619
+#!/usr/bin/env zsh
+#: Jake Martin
 #: Contact list bash script that manages contacts.
 #: WARNING - contact list is saved to a hidden directory.
 #: Hidden file can be found at ~/.contacts/contact_list

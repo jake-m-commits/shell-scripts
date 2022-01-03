@@ -1,5 +1,5 @@
-#!/bin/bash
-#: Jake Martin ~ A01158619
+#!/usr/bin/env zsh
+#: Jake Martin
 #: Output the links from a web page and
 #: optionally save them to a file.
 #: File location: URL_getter_results in working directory
