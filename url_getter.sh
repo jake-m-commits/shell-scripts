@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 #: Jake Martin
 #: Output the links from a web page and
 #: optionally save them to a file.

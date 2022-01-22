@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 #: Jake Martin
 #: Output a file with line numbers.
 
